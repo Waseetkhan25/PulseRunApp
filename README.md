@@ -7,7 +7,7 @@ Records runs using the device's physical Accelerometer (step counting) and GPS (
 
 ## Tech Stack
 
-| Layer | Implemntation |
+| Layer | Implementation |
 |---|---|
 | UI / Views | React Native core components, Flexbox, Dimensions API |
 | Navigation | React Navigation — Stack + Bottom Tab |
