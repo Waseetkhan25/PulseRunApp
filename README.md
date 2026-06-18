@@ -1,9 +1,3 @@
-https://github.com/copilot/share/4a030106-4160-84c0-b140-500a00d4617b
-
-
-
-
-
 # PulseRun 🏃
 
 A gamified fitness and location tracker built with **React Native + Expo**.  
